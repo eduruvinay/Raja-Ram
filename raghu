@@ -1,2 +1,12 @@
-only for practice persion
+1.public class login {
+2.
+3.  public static void main(String args[])
+4.{
+5.         int a;
+6.
+7.       for(i=0;i<=10;i++) {
+8.         System.out.println("Number: " + i);
+9.        }
+10.     }
+11.   }
 
