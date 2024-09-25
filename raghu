@@ -4,7 +4,7 @@
 4.    {
 5.       int a;
 6.
-7.        for(i=0;i<=20;i++) {
+7.        for(i=0;i<=30;i++) {
 8.          System.out..println("Number:" + i);
 9.     } 
 10.   }
