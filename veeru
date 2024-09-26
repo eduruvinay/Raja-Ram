@@ -4,9 +4,9 @@
 4.  {
 5.     int a;
 6.
-7.     for(i=0;i<=30;++) {
-8.        System.out.println("Number: + i);
-9.     }
-10.   }
-11.}
+7.     for(i=0;i<=25;++) { 
+9.        System.out.println("Number: + i);
+10.     }
+11.   }
+12.}
 
